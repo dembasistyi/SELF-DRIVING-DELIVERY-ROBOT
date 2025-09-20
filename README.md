@@ -8,9 +8,9 @@ Create a fully open platform that combines engineering and software
 to prototype a small campus delivery robot.
 
 ## 🧑‍🤝‍🧑 Team
-- **Demian Basistyi** – Software & AI
-- **[Colleague’s Name]** – Hardware & Engineering
-
+- [**Demian**](https://github.com/dembasistyi) – Software & AI 💻
+- [**Stepan**](https://github.com/Stepan-Samovyndiak) – Hardware & Engineering 👷
+ 
 ## 📂 Repository Structure
 - `hardware/` – CAD files, electronics schematics, bill of materials
 - `firmware/` – microcontroller code and drivers
