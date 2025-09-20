@@ -23,4 +23,3 @@ The project is at an early stage.
 Feel free to open [issues](../../issues) for questions or ideas.
 
 ## 📜 License
-MIT License
