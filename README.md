@@ -1,4 +1,4 @@
-# 🤖 SELF-DRIVING DELIVERY ROBOT
+# WyGoo - SELF-DRIVING DELIVERY ROBOT 🤖
 
 An **open-source** project to design and build an autonomous delivery robot
 for university campuses and similar environments.
